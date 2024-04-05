@@ -1,0 +1,13 @@
+html {
+    color-scheme: dark;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1 {
+    background-color: red;
+}
+body {
+    background-color: rgb(185, 181, 189);
+}
+p {
+    color: blueviolet;
+}
